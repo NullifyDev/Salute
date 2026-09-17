@@ -1,0 +1,3 @@
+[submodule "submodules/BlujayEngine"]
+	path = submodules/BlujayEngine
+	url = git@github.com:ProjectBlujay/BlujayEngine.git

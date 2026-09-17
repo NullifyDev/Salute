@@ -1,0 +1,12 @@
+Framework/*
+build/*
+bin/*
+.cmake/*
+.idea/*
+
+
+diff
+display-image
+main.xml
+Salute v0.0.2b(src).zip
+TODO.md
